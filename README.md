@@ -1,4 +1,5 @@
-## Hi there 👋
+## ЗДАРОВА!!!! 👋
+я Afya2208, делаю всякие кодики
 
 <!--
 **Afya2208/afya2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
