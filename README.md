@@ -21,4 +21,4 @@ Kotlin (мобильная разработка для Android), Blazor, Java, S
 - **[VendingMachinesSystem](https://github.com/afya2208/VendingMachinesSystem)** - ИС франчайзинга вендинговых автоматов
 - **[PersonnelManagementSystem](https://github.com/afya2208/PersonnelManagementSystem)** - ИС учета кадров компании, новостей и событий для сотрудников
 - **[interactive-map](https://github.com/Afya2208/interactive-map)** - веб-сайт квиз-карта
-
+- **[Webs.io](https://github.com/Afya2208/Webs.io)** - настольное приложение для вычисления минимального остова сети коммутаторов
