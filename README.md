@@ -1,13 +1,13 @@
 ## Привет 👋
 
 ### Обо мне
-Student IT, изучаю fullstack разработку: PostgreSQL, Avalonia/WPF, ASP.NET Core, Vue.js.
+Занимаюсь Fullstack разработкой: PostgreSQL, Avalonia, WPF, ASP.NET Core, Vue.js.
 Специализируюсь на C#.
 
 ### Основной стек технологий
-Backend: C#, ASP.NET Core, EntityFramework Core, PostgreSQL
+Backend: C#, ASP.NET Core, Entity Framework Core, PostgreSQL
 
-Frontend: Avalonia/WPF, CSS, HTML, Vue.js + TypeScript
+Frontend: Avalonia, WPF, CSS, HTML, Vue.js + TypeScript
 
 Testing: Selenium (C#), XUnit, Postman
 
