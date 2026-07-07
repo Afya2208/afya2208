@@ -1,11 +1,10 @@
 ## Привет 👋
 
 ### Обо мне
-Занимаюсь Fullstack разработкой: PostgreSQL, Avalonia, WPF, ASP.NET Core, Vue.js.
-Специализируюсь на C#.
+Занимаюсь разработкой программ, специализируюсь на C#.
 
 ### Основной стек технологий
-Backend: C#, ASP.NET Core, Entity Framework Core, PostgreSQL
+Backend: C#, ASP.NET Core, Entity Framework Core, СУБД PostgreSQL
 
 Frontend: Avalonia, WPF, CSS, HTML, Vue.js + TypeScript
 
@@ -17,8 +16,9 @@ Other: Git, UML
 Kotlin (мобильная разработка для Android), Blazor, Java, Spring, MySQL, MSSQL (SQL Server), Next.js, React.js
 
 
-### Последние проекты
+### Проекты
+- **[CourseBuilder](https://github.com/Afya2208/CourseBuilder)** - платформа онлайн-курсов, веб-сайт для создания и изучения курсов
 - **[VendingMachinesSystem](https://github.com/afya2208/VendingMachinesSystem)** - ИС франчайзинга вендинговых автоматов
 - **[PersonnelManagementSystem](https://github.com/afya2208/PersonnelManagementSystem)** - ИС учета кадров компании, новостей и событий для сотрудников
-- **[interactive-map](https://github.com/Afya2208/interactive-map)** - веб-сайт квиз-карта
 - **[Webs.io](https://github.com/Afya2208/Webs.io)** - настольное приложение для вычисления минимального остова сети коммутаторов
+- **[interactive-map](https://github.com/Afya2208/interactive-map)** - веб-сайт квиз-карта
